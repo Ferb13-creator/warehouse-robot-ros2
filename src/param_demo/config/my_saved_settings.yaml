@@ -1,9 +1,0 @@
-/param_mover:
-  ros__parameters:
-    enabled: true
-    speed: 1.4
-    start_type_description_service: true
-    topic_name: /turtle1/cmd_vel
-    turn_rate: 0.5
-    use_sim_time: false
-

@@ -1,6 +1,0 @@
-param_mover:
-   ros__parameters:
-     speed: 1.0
-     turn_rate: 0.8
-     topic_name: /turtle1/cmd_vel
-     enabled: true

@@ -1,7 +1,0 @@
-# Request
-float32 speed
----
-# Response
-bool success
-string message
-float32 previous_speed
